@@ -1,6 +1,6 @@
 # nCinoTest
 
--This is a demo only
+>This is a demo only
 
 -Clone the repo
 
