@@ -1,5 +1,5 @@
 # nCinoTest
 
-Clone the repo
-In command line type "bundle install"  under the repo folder
+Clone the repo\n
+In command line type "bundle install"  under the repo folder\n
 Run the test
