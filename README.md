@@ -4,7 +4,7 @@
 >
 >Built in ruby cucumber
 >
->For chromedrive please visit https://chromedriver.chromium.org/ and download the compatible version with your browser
+>For chromedrive please visit https://chromedriver.chromium.org/ and download the version compatible with your browser
 
 - Clone the repo
 
